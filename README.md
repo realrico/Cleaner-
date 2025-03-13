@@ -20,4 +20,5 @@ Make sure to run everything in ADMIN mode.
 
 password is: rico
 
+to start the tool run: Launch.bat in admin mode.
 !READ THIS OTHERWISE IT WONT WORK!
