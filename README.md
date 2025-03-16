@@ -22,4 +22,4 @@ Starting the Tool: To start the tool, run Launch.bat in administrator mode.
 Feel free to check the code for yourself or make further edits as needed. I hope this tool proves helpful!
 Add me on discord @realrico for questions or errors.
 
-PS: the file is called GameCleaner, iykyk ;) 
+
