@@ -1,24 +1,25 @@
-this is a simple game and AC cleaner for all round use, mainly focused on user usage for their own purpose. 
+Rust and Anti-Cheat Cleaner - Made by @realrico
+This is a simple Rust and Anti-Cheat (AC) cleaner designed for all-around use, primarily focused on helping users for their own purposes.
 
-the "login" window exists for safety reasons, i have mainly planned on programming this cleaner more to maybe sell it, but i've decided to launch it as open source. 
+Overview
+The "login" window is implemented for safety reasons. Initially, I planned to develop this cleaner with the intention of selling it, but I have decided to launch it as an open-source project.
 
-the cleaner works pretty good and does its job even if its not the best looking one. 
+The cleaner functions effectively and accomplishes its tasks, even if its appearance isn't the most polished. It is specifically designed to clean RUST and all Steam files related to the game, where it performs best. The Anti-Cheat cleaning option is versatile and applicable to various Anti-Cheat systems, with a primary focus on Easy Anti-Cheat (EAC).
 
-its focused on cleaning RUST and all steam files connected to the game. that's where its performing. the Anti-Cheat clean option is all round for every Anti-cheat. Mainly eac.
+If you have cleaned RUST, I recommend using the Anti-Cheat cleaning option as well for improved performance.
 
-if you have cleaned rust i would recommend using the Anti-Cheat clean option aswell, this is just for better performance. 
+Usage Instructions
+Run as Administrator: Ensure you run the .bat file as an administrator for the cleaner to work properly; otherwise, it may not function as intended.
 
-i hope that this tool helps, make sure to run the .bat as Admin to use the cleaner properly, otherwise it wont work. 
+Logging Feature: A logging feature has been implemented to allow users to check each step the cleaner takes, helping to avoid potential issues.
 
-i have implemented a log feature, just for the user to check every step the cleaner makes to evade problems.
+Killer.bat: The killer.bat script launches before the user interface starts to prevent mistakes during the cleaning process.
 
-You can check the code for yourself or edit it further.
+Password: The password to access the cleaner is: rico.
 
-The killer.bat launches before the ui starts, to prevent mistakes in the cleaning process.
+Starting the Tool: To start the tool, run Launch.bat in administrator mode.
 
-Make sure to run everything in ADMIN mode.
+Feel free to check the code for yourself or make further edits as needed. I hope this tool proves helpful!
+Add me on discord @realrico for questions or errors.
 
-password is: rico
-
-to start the tool run: Launch.bat in admin mode.
-
+PS: the file is called GameCleaner, iykyk ;) 
